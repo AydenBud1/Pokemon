@@ -177,3 +177,40 @@ h1 {
     line-height: 1.5;
     color: #000000;
   }
+  
+
+  
+.EeveeLore {
+  background-color: rgba(74, 42, 29);
+  text-align: center;    
+  padding: 20px;
+    font-size: 20px;
+}
+.PikachuLore{
+  background-color: yellow;
+  text-align: center;    
+  padding: 20px;
+    font-size: 20px;
+}
+.CharizardLore{
+  background-color: Orangered;
+  text-align: center;    
+  padding: 20px;
+    font-size: 20px;
+}
+.SquirtleLore{
+  background-color:#4db8d3;
+  text-align: center;    
+  padding: 20px;
+    font-size: 20px;
+}
+.BulbasaurLore{
+  background-color:greenyellow;
+  text-align: center;    
+  padding: 20px;
+    font-size: 20px;
+}
+ol li{
+  list-style-type: none;
+  color: blue;
+}
